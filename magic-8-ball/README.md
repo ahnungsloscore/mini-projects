@@ -1,7 +1,7 @@
 # Magic 8-Ball
 
 Magic 8-Ball is a **fun, beginner-friendly web project** built using **HTML, CSS, and JavaScript**.  
-It lets users **type a yes/no question** and receive a **random answer** from a set of 9 possible responses — just like the classic Magic 8-Ball toy.
+It lets users **type a yes/no question** and receive a **random answer** from a set of 9 possible responses similar to the classic Magic 8-Ball toy.
 
 ## How to Use
 
