@@ -21,7 +21,7 @@ It lets users **type a yes/no question** and receive a **random answer** from a 
 ## Built With
 
 - **HTML5** – for the page structure  
-- **CSS3** – for styling and layout  
+- **inline CSS** – for styling and layout  
 - **JavaScript** – for the interactive logic (random answers, input handling)  
 
 ## What I Learned
