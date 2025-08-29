@@ -15,7 +15,7 @@ It lets users **type a yes/no question** and receive a **random answer** from a 
 - User types a question in the input box.  
 - When clicking **GO**, a random number between 0 and 8 is generated.  
 - That number maps to one of nine possible answers:  
-  - Yes – definitely.  
+  - Yes, definitely.  
   - It is decidedly so.  
   - Without a doubt.  
   - Reply hazy, try again.  
